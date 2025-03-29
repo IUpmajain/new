@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from './component/home'
+import Home from './component/Home'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import ProductData from './component/ProductData'
 
